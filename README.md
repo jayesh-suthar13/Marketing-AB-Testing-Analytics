@@ -66,10 +66,11 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), SciPy, Statsmodels, Jupyter Noteboo
 ## Project Structure
 
 project/
-data/
-ad_data.csv
-notebook/
-AB_Testing_analysis.ipynb
+data/  ad_data.csv
+
+notebook/ AB_Testing_analysis.ipynb
+
 README.md
+
 requirements.txt
 
