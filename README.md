@@ -1,10 +1,10 @@
-#  Ad Campaign Performance Analysis using A/B Testing**
+#  Ad Campaign Performance Analysis using A/B Testing
 
-#  Project Overview**
+#  Project Overview
 
 This project compares Facebook Ads and Google Adwords to determine which platform performs better in terms of conversions, clicks, and cost efficiency. The project uses A/B testing, statistical analysis, regression, and time-based trends to generate insights.
 
-# Business Objectives**
+# Business Objectives
 
 1. **Identify which ad platform performs better.**
 2. **Analyze the relationship between clicks and conversions.**
@@ -14,39 +14,39 @@ This project compares Facebook Ads and Google Adwords to determine which platfor
 6. **Evaluate how ad spend impacts conversions.**
 7. **Determine which campaign provides better ROI.**
 
-## 🧪 A/B Testing Summary**
+##  A/B Testing Summary
 
 **H0:** Both platforms have equal average conversions.
 **H1:** Facebook has higher average conversions than Adwords.
 Statistical results show Facebook performs better, so the null hypothesis is rejected.
 
-## **📈 Key Insights**
+## Key Insights
 
-### ** Distribution and Outliers**
+### Distribution and Outliers
 
 Conversions and clicks show near-normal distribution with few outliers.
 
-### ** Platform Comparison**
+### Platform Comparison
 
 Facebook has more high-conversion days and stronger engagement.
 
-### ** Correlation**
+### Correlation
 
 Clicks and conversions have a strong positive correlation (0.87).
 
-### ** Regression Analysis**
+### Regression Analysis
 
 Ad spend, especially on Facebook, strongly predicts conversions.
 
-### ** Time and Trend Analysis**
+### Time and Trend Analysis
 
 Conversions remain consistent across weekdays, with a small rise mid-month.
 
-### ** Long-Term Relationship**
+### Long-Term Relationship
 
 Statistical results confirm conversions depend significantly on ad spend.
 
-## ** Steps Performed**
+## Steps Performed
 
 1. **Loaded and reviewed the dataset.**
 2. **Cleaned and prepared the data.**
@@ -59,11 +59,11 @@ Statistical results confirm conversions depend significantly on ad spend.
 9. **Analyzed time-based patterns.**
 10. **Summarized insights and conclusions.**
 
-## ** Tech Stack**
+## Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Seaborn), SciPy, Statsmodels, Jupyter Notebook
 
-## ** Project Structure**
+## Project Structure
 
 project/
 data/
